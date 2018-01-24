@@ -1,0 +1,8 @@
+M:\APPSWS\APPSWS\bin\APPSWS.dll.config
+M:\APPSWS\APPSWS\bin\APPSWS.dll
+M:\APPSWS\APPSWS\bin\APPSWS.pdb
+M:\APPSWS\APPSWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\APPSWS\APPSWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\APPSWS\APPSWS\obj\Debug\APPSWS.csproj.CoreCompileInputs.cache
+M:\APPSWS\APPSWS\obj\Debug\APPSWS.dll
+M:\APPSWS\APPSWS\obj\Debug\APPSWS.pdb
